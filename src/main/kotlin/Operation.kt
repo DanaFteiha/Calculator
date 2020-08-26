@@ -1,3 +1,3 @@
 enum class Operation {
-    ADD, SUB, MUL, DIV, NONE
+    ADD, SUB, MUL, DIV
 }
