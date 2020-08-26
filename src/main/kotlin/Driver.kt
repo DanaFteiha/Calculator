@@ -6,9 +6,10 @@
 //main method
 fun main() {
     val calculator = Calculator()
-    calculator.oneClicked()
     calculator.twoClicked()
-    calculator.divClicked()
+    calculator.twoClicked()
+    calculator.plusClicked()
+    calculator.threeClicked()
     calculator.threeClicked()
     calculator.equalClicked()
 }
